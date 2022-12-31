@@ -12,4 +12,4 @@ Create string for APP_KEY:
 -[x] creating a factory for authors and building test values
 -[x] creating the controller for authors
 -[x] creating the routes for CRUD operations on the authors
--[ ] normalizing the authors microservice responses
+-[x] normalizing the authors microservice responses
