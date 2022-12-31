@@ -10,6 +10,6 @@ Create string for APP_KEY:
 -[x] building the authors table with a migration of Lumen
 -[x] creating the authors model
 -[x] creating a factory for authors and building test values
--[ ] creating the controller for authors
+-[x] creating the controller for authors
 -[ ] creating the routes for CRUD operations on the authors
 -[ ] normalizing the authors microservice responses
