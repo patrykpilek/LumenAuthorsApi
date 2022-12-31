@@ -9,7 +9,7 @@ Create string for APP_KEY:
 -[x] preparing the service for its correct operation
 -[x] building the authors table with a migration of Lumen
 -[x] creating the authors model
--[ ] creating a factory for authors and building test values
+-[x] creating a factory for authors and building test values
 -[ ] creating the controller for authors
 -[ ] creating the routes for CRUD operations on the authors
 -[ ] normalizing the authors microservice responses
