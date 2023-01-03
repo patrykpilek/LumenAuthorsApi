@@ -34,7 +34,7 @@ Create string for APP_KEY:
 
 -[x] allowing showing an author with a given id with Lumen
 
--[ ] allowing editing an existing author
+-[x] allowing editing an existing author
 
 -[ ] allowing deleting an existing author
 
