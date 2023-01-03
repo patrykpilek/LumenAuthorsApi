@@ -32,7 +32,7 @@ Create string for APP_KEY:
 
 -[x] allowing creating author instances from the controller
 
--[ ] allowing showing an author with a given id with Lumen
+-[x] allowing showing an author with a given id with Lumen
 
 -[ ] allowing editing an existing author
 
