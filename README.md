@@ -12,30 +12,30 @@ php -S localhost:8000 -t public
 Create string for APP_KEY:
 [Random string generator](http://www.unit-conversion.info/texttools/random-string-generator/)
 
--[x] preparing the service for its correct operation
+- [x] preparing the service for its correct operation
 
--[x] building the authors table with a migration of Lumen
+- [x] building the authors table with a migration of Lumen
 
--[x] creating the authors model
+- [x] creating the authors model
 
 - [x] creating a factory for authors and building test values
 
 - [x] creating the controller for authors
 
--[x] creating the routes for CRUD operations on the authors
+- [x] creating the routes for CRUD operations on the authors
 
 - [x] normalizing the authors microservice responses
 
 ## Implementing the functions of the authors microservice in Lumen
 
--[x] showing the list of authors from the Lumen controller
+- [x] showing the list of authors from the Lumen controller
 
--[x] allowing creating author instances from the controller
+- [x] allowing creating author instances from the controller
 
--[x] allowing showing an author with a given id with Lumen
+- [x] allowing showing an author with a given id with Lumen
 
--[x] allowing editing an existing author
+- [x] allowing editing an existing author
 
--[ ] allowing deleting an existing author
+- [x] allowing deleting an existing author
 
--[ ] handling important errors and exceptions with Lumen
+- [ ] handling important errors and exceptions with Lumen
