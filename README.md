@@ -1,5 +1,7 @@
 # Lumen Microservices: Create Services and APIs with Lumen
 
+## Authors
+
 ### Serving Your Application
 To serve your project locally, you may use the built-in PHP development server:
 
@@ -23,13 +25,8 @@ Create string for APP_KEY:
 ## Implementing the functions of the authors microservice in Lumen
 
 - [x] showing the list of authors from the Lumen controller
-
 - [x] allowing creating author instances from the controller
-
 - [x] allowing showing an author with a given id with Lumen
-
 - [x] allowing editing an existing author
-
 - [x] allowing deleting an existing author
-
 - [x] handling important errors and exceptions with Lumen
