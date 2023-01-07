@@ -30,3 +30,7 @@ Create string for APP_KEY:
 - [x] allowing editing an existing author
 - [x] allowing deleting an existing author
 - [x] handling important errors and exceptions with Lumen
+
+## Implementing the security layer of the microservices architecture with Lumen
+
+- [x] authenticating direct access to the Lumen authors
